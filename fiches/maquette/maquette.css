@@ -1,0 +1,21 @@
+/* Section « configurations » des fiches produits, classes préfixées kmaq-. Chargée par maquette-section.js. */
+.kmaq{display:grid;gap:12px}
+.kmaq-formats{display:flex;flex-wrap:wrap;gap:8px}
+.kmaq-formats[hidden]{display:none}
+.kmaq-format{min-height:40px;padding:0 14px;border:1px solid rgb(60 57 52/.18);border-radius:999px;background:#fdfcf9;color:#3c3934;font:inherit;font-size:14px;cursor:pointer}
+.kmaq-format:hover{border-color:#056733;color:#056733}
+.kmaq-format[aria-pressed=true]{background:#056733;border-color:#056733;color:#fff}
+/* Fond et bordure réglables par la page : --kmaq-bg, --kmaq-border. */
+.kmaq-stage{position:relative;aspect-ratio:16/10;max-height:72vh;border:1px solid var(--kmaq-border,transparent);border-radius:4px;overflow:hidden;background:var(--kmaq-bg,#f7f4ed)}
+.kmaq-stage canvas{display:block;width:100%;height:100%;cursor:grab}
+.kmaq-stage canvas:active{cursor:grabbing}
+.kmaq-frame{position:relative}
+.kmaq-tools{position:absolute;right:10px;bottom:10px;display:flex;gap:6px}
+.kmaq-tool[hidden]{display:none}
+.kmaq-tool{display:grid;place-items:center;min-width:40px;height:40px;padding:0 10px;border:0;border-radius:8px;background:rgb(253 252 249/.92);color:#3c3934;box-shadow:0 1px 4px rgb(26 46 32/.18);font:inherit;font-size:13px;cursor:pointer}
+.kmaq-tool:hover{color:#056733}
+.kmaq-tool[aria-pressed=true]{background:#056733;color:#fff}
+.kmaq-tool svg{width:18px;height:18px;fill:currentColor}
+.kmaq-hint{position:absolute;left:10px;bottom:10px;padding:6px 10px;border-radius:8px;background:rgb(253 252 249/.92);font-size:12.5px;color:#57534c;pointer-events:none;transition:opacity .3s}
+.kmaq-note{margin:0;font-size:13px;line-height:1.5;color:#6b665d}
+@media (max-width:640px){.kmaq-stage{aspect-ratio:4/3}.kmaq-hint{display:none}.kmaq-tools{position:static;justify-content:flex-end;margin-top:8px}}
