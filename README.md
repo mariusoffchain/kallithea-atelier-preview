@@ -13,5 +13,6 @@ Version de test. La demande de devis n'envoie rien depuis cette page, les dimens
 Le dossier `fiches/` contient des copies de pages produits du site, préparées pour validation avant leur mise en ligne. Elles portent un bandeau « Aperçu », ne sont pas référencées, et leurs liens vers les autres pages mènent au site en ligne.
 
 - Kalli Abris : https://mariusoffchain.github.io/kallithea-atelier-preview/fiches/kalli-abris/
+- Kalli Sols, avec la gamme Bioret Cheval : https://mariusoffchain.github.io/kallithea-atelier-preview/fiches/kalli-sols/#bioret
 
 Ces fichiers sont construits, à ne pas modifier à la main.
