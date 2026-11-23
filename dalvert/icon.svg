@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 92">
+  <style>
+    .a{fill:#3E5C42}.b{fill:#7FB069}.l{fill:none;stroke:#3E5C42;stroke-width:3.5}.r{fill:none;stroke:#3E5C42;stroke-width:2.6;stroke-linecap:round}
+    @media (prefers-color-scheme: dark){.a{fill:#FFFFFF}.b{fill:#A6D67A}.l{stroke:#FFFFFF}.r{stroke:#FFFFFF}}
+  </style>
+  <rect class="a" x="0" y="0" width="42" height="42" rx="6"/>
+  <rect class="l" x="51.75" y="1.75" width="38.5" height="38.5" rx="6"/>
+  <g class="r" transform="translate(71 21)">
+    <path d="M0 0 C -6 -4.5, 6 -9.5, 0 -14.5"/><path d="M0 0 C -6 -4.5, 6 -9.5, 0 -14.5" transform="rotate(90)"/>
+    <path d="M0 0 C -6 -4.5, 6 -9.5, 0 -14.5" transform="rotate(180)"/><path d="M0 0 C -6 -4.5, 6 -9.5, 0 -14.5" transform="rotate(270)"/>
+  </g>
+  <rect class="l" x="1.75" y="51.75" width="38.5" height="38.5" rx="6"/>
+  <g class="r" transform="translate(21 71)">
+    <path d="M0 0 C -6 -4.5, 6 -9.5, 0 -14.5"/><path d="M0 0 C -6 -4.5, 6 -9.5, 0 -14.5" transform="rotate(90)"/>
+    <path d="M0 0 C -6 -4.5, 6 -9.5, 0 -14.5" transform="rotate(180)"/><path d="M0 0 C -6 -4.5, 6 -9.5, 0 -14.5" transform="rotate(270)"/>
+  </g>
+  <rect class="b" x="50" y="50" width="42" height="42" rx="6"/>
+</svg>

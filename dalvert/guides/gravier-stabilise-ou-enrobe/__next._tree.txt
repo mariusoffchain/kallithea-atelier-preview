@@ -1,0 +1,4 @@
+:HL["/kallithea-atelier-preview/dalvert/_next/static/media/7b3954b250246604-s.p.40gj5_xrkze6a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kallithea-atelier-preview/dalvert/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kallithea-atelier-preview/dalvert/media/chantier/ecurie-active-7-1600.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"guides","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"gravier-stabilise-ou-enrobe","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"MqxmMUJZHfKTQ9KiIf91y"}

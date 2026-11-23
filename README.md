@@ -16,3 +16,11 @@ Le dossier `fiches/` contient des copies de pages produits du site, préparées 
 - Kalli Sols, avec la gamme Bioret Cheval : https://mariusoffchain.github.io/kallithea-atelier-preview/fiches/kalli-sols/#bioret
 
 Ces fichiers sont construits, à ne pas modifier à la main.
+
+## Aperçu de Dalvert
+
+Le dossier `dalvert/` contient une copie du site dalvert.fr avec la page des tapis et matelas de box Bioret Cheval, avant sa mise en ligne. Elle porte un bandeau « Aperçu », n'est pas référencée, et son formulaire de devis n'envoie rien.
+
+- Tapis et matelas de box : https://mariusoffchain.github.io/kallithea-atelier-preview/dalvert/tapis-caoutchouc/
+
+Ces fichiers sont construits, à ne pas modifier à la main.
